@@ -1,0 +1,26 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Build / dist
+build/
+dist/
+*.egg-info/
+
+# Jupyter & data
+.ipynb_checkpoints/
+.DS_Store
+
+# PyCharm
+.idea/
+
+# Quarto and misc caches
+.quarto/
+_freeze/
